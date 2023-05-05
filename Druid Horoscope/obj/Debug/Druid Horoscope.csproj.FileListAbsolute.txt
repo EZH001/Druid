@@ -1,0 +1,35 @@
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.exe.config
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.exe
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.pdb
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.SuggestedBindingRedirects.cache
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.Form1.resources
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.exe
+D:\Program Files (x86)\Microsoft\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.pdb
+E:\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.exe.config
+E:\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.exe
+E:\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.pdb
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.AssemblyReference.cache
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.SuggestedBindingRedirects.cache
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.Form1.resources
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.Properties.Resources.resources
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.GenerateResource.cache
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.CoreCompileInputs.cache
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.exe
+E:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.pdb
+F:\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.exe.config
+F:\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.exe
+F:\Druid Horoscope\Druid Horoscope\bin\Debug\Druid Horoscope.pdb
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.AssemblyReference.cache
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.SuggestedBindingRedirects.cache
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.Form1.resources
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.Properties.Resources.resources
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.GenerateResource.cache
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.csproj.CoreCompileInputs.cache
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.exe
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid Horoscope.pdb
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.About.resources
+F:\Druid Horoscope\Druid Horoscope\obj\Debug\Druid_Horoscope.Loading.resources
